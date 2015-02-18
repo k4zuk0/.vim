@@ -16,7 +16,7 @@ Plugin 'bling/vim-airline'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree.git'
-Plugin 'git@bitbucket.org:k4zuk0/kazu-vimstuff'
+Plugin 'k4zuk0/kazu-vimstuff'
 Plugin 'scrooloose/syntastic'
 " End of additional plugins
 
